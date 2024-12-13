@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/actaDesc/',
   plugins: [react()],
+  base: "https://luisavila08.github.io/actaDesc",
 })
